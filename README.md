@@ -1,31 +1,31 @@
 ```
 
-  _    _    _    _    _    _    _    _    _    _    _    _  
-{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}
- /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\ 
-  _     ____                              _   _          _  
-{\o/}  |  _ \  ___   ___  _ __ ___   __ _| |_(_) ___   {\o/}
- /_\   | | | |/ _ \ / _ \| '_ ` _ \ / _` | __| |/ __|   /_\ 
-  _    | |_| | (_) | (_) | | | | | | (_| | |_| | (__     _  
-{\o/}  |____/ \___/ \___/|_| |_| |_|\__,_|\__|_|\___|  {\o/}
- /_\                                                    /_\ 
-  _    _    _    _    _    _    _    _    _    _    _    _  
-{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}
- /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  'Dotfiles for BSPWM (created by Doomatic / u/Siurzu)
+
+
+  _____                 _                      
+ |  __ \               | |                     
+ | |__) |___  ___  __ _| |__   ___  _ __   ___ 
+ |  _  // _ \/ _ \/ _` | '_ \ / _ \| '_ \ / _ \
+ | | \ \  __/  __/ (_| | |_) | (_) | | | |  __/
+ |_|  \_\___|\___|\__, |_.__/ \___/|_| |_|\___|
+                     | |                       
+                     |_|                       
+
+Dotfiles for BSPWM (created by Reeqbone / u/Siurzu)
 ```   
 
 
 
-### See my [second branch](https://github.com/Santahgeo/dotfiles/tree/BspwmV2) of my BSPWM rices for more updated themes. Updates such as powermenus, new rofi themes and different polybar can be found in my [Second Branch](https://github.com/Santahgeo/dotfiles/tree/BspwmV2)
+### See my [second branch](https://github.com/reeqbone/dotfiles/tree/BspwmV2) of my BSPWM rices for more updated themes. Updates such as powermenus, new rofi themes and different polybar can be found in my [Second Branch](https://github.com/reeqbone/dotfiles/tree/BspwmV2)
 _________________________________________________________________________________________________________________________________________________________
 
 Jump To: 
-- [Pre-Installation](https://github.com/Santahgeo/dotfiles#pre-installation)
-- [Creating Directories](https://github.com/Santahgeo/dotfiles#make-your-directories-if-needed)
-- [Applying all themes/configs](https://github.com/Santahgeo/dotfiles#applying-dotfiles)
-- [Credits](https://github.com/Santahgeo/dotfiles#credits)
-- [Screenshots](https://github.com/Santahgeo/dotfiles#screenshots)
-- [Help/QuickGuide](https://github.com/Santahgeo/dotfiles/tree/main#read-bellow-if-you-have-issues-or-need-help)
+- [Pre-Installation](https://github.com/reeqbone/dotfiles#pre-installation)
+- [Creating Directories](https://github.com/reeqbone/dotfiles#make-your-directories-if-needed)
+- [Applying all themes/configs](https://github.com/reeqbone/dotfiles#applying-dotfiles)
+- [Credits](https://github.com/reeqbone/dotfiles#credits)
+- [Screenshots](https://github.com/reeqbone/dotfiles#screenshots)
+- [Help/QuickGuide](https://github.com/reeqbone/dotfiles/tree/main#read-bellow-if-you-have-issues-or-need-help)
 _________________________________________________________________________________________________________________________________________________________
 
 # Info:

@@ -1,32 +1,32 @@
 ```
 
-  _    _    _    _    _    _    _    _    _    _    _    _  
-{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}
- /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\ 
-  _     ____                              _   _          _  
-{\o/}  |  _ \  ___   ___  _ __ ___   __ _| |_(_) ___   {\o/}
- /_\   | | | |/ _ \ / _ \| '_ ` _ \ / _` | __| |/ __|   /_\ 
-  _    | |_| | (_) | (_) | | | | | | (_| | |_| | (__     _  
-{\o/}  |____/ \___/ \___/|_| |_| |_|\__,_|\__|_|\___|  {\o/}
- /_\                                                    /_\ 
-  _    _    _    _    _    _    _    _    _    _    _    _  
-{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}
- /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  'Dotfiles for BSPWM (created by Doomatic / u/Siurzu)
+
+
+  _____                 _                      
+ |  __ \               | |                     
+ | |__) |___  ___  __ _| |__   ___  _ __   ___ 
+ |  _  // _ \/ _ \/ _` | '_ \ / _ \| '_ \ / _ \
+ | | \ \  __/  __/ (_| | |_) | (_) | | | |  __/
+ |_|  \_\___|\___|\__, |_.__/ \___/|_| |_|\___|
+                     | |                       
+                     |_|                       
+
+ 'Dotfiles for BSPWM (created by Doomatic / u/Siurzu)
 
 ```                                    
 
-### Please check out my [BspwmTokyo Branch](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo) this branch will no longer be developed anymore.
+### Please check out my [BspwmTokyo Branch](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo) this branch will no longer be developed anymore.
 
 _________________________________________________________________________________________________________________________________________________________
 
 Jump To: 
-- [Pre-Installation](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#pre-installation)
-- [Cloning the Branch](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#cloning-this-branch)
-- [Creating Directories](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#make-your-directories-if-needed)
-- [Applying all themes/configs](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#applying-dotfiles)
-- [Screenshots](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#screenshots)
-- [Credits](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#credits)
-- [Help/QuickGuide](https://github.com/Santahgeo/dotfiles/tree/BspwmV2#help-and-quickguide)
+- [Pre-Installation](https://github.com/reeqbone/dotfiles/tree/BspwmV2#pre-installation)
+- [Cloning the Branch](https://github.com/reeqbone/dotfiles/tree/BspwmV2#cloning-this-branch)
+- [Creating Directories](https://github.com/reeqbone/dotfiles/tree/BspwmV2#make-your-directories-if-needed)
+- [Applying all themes/configs](https://github.com/reeqbone/dotfiles/tree/BspwmV2#applying-dotfiles)
+- [Screenshots](https://github.com/reeqbone/dotfiles/tree/BspwmV2#screenshots)
+- [Credits](https://github.com/reeqbone/dotfiles/tree/BspwmV2#credits)
+- [Help/QuickGuide](https://github.com/reeqbone/dotfiles/tree/BspwmV2#help-and-quickguide)
 _________________________________________________________________________________________________________________________________________________________
 
 # Info:

@@ -1,17 +1,17 @@
 ```
 
-  _    _    _    _    _    _    _    _    _    _    _    _  
-{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}
- /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\ 
-  _     ____                              _   _          _  
-{\o/}  |  _ \  ___   ___  _ __ ___   __ _| |_(_) ___   {\o/}
- /_\   | | | |/ _ \ / _ \| '_ ` _ \ / _` | __| |/ __|   /_\ 
-  _    | |_| | (_) | (_) | | | | | | (_| | |_| | (__     _  
-{\o/}  |____/ \___/ \___/|_| |_| |_|\__,_|\__|_|\___|  {\o/}
- /_\                                                    /_\ 
-  _    _    _    _    _    _    _    _    _    _    _    _  
-{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}{\o/}
- /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  /_\  'Dotfiles for BSPWM (created by Doomatic / u/Siurzu)
+
+
+  _____                 _                      
+ |  __ \               | |                     
+ | |__) |___  ___  __ _| |__   ___  _ __   ___ 
+ |  _  // _ \/ _ \/ _` | '_ \ / _ \| '_ \ / _ \
+ | | \ \  __/  __/ (_| | |_) | (_) | | | |  __/
+ |_|  \_\___|\___|\__, |_.__/ \___/|_| |_|\___|
+                     | |                       
+                     |_|                       
+
+'Dotfiles for BSPWM (created by Reeqbone / u/Siurzu)
 
 ```                                    
 
@@ -19,13 +19,13 @@ ________________________________________________________________________________
 
 
 Jump To: 
-- [Pre-Installation](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#pre-installation)
-- [Cloning the Branch](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#cloning-this-branch)
-- [Creating Directories](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#make-your-directories-if-needed)
-- [Applying all themes/configs](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#applying-dotfiles)
-- [Credits](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#credits)
-- [Screenshots](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#screenshots)
-- [Help/QuickGuide](https://github.com/DoomaticSudds/dotfiles/tree/BspwmTokyo#read-bellow-if-you-have-issues-or-need-help)
+- [Pre-Installation](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#pre-installation)
+- [Cloning the Branch](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#cloning-this-branch)
+- [Creating Directories](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#make-your-directories-if-needed)
+- [Applying all themes/configs](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#applying-dotfiles)
+- [Credits](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#credits)
+- [Screenshots](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#screenshots)
+- [Help/QuickGuide](https://github.com/reeqbone/dotfiles/tree/BspwmTokyo#read-bellow-if-you-have-issues-or-need-help)
 _________________________________________________________________________________________________________________________________________________________
 
 # Info:
